@@ -1,2 +1,3 @@
 # PhytonAI
-un asistent facut in phyton are f. putini parametrii dar speram sa l facem mai fain pr viitor
+un asistent facut in phyton are f. putini parametrii dar speram sa l facem mai fain pe viitor
+Poate fi facut ceva asemanator dar cu probleme/ ecuatii sau reactii pt mate fizica respectiv chimie...
